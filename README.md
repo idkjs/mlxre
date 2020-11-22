@@ -7,7 +7,7 @@ Scripts for converting from `.ml`/`.mli` to `.re`/`.rei` files.
 
 Without passing arguments
 ```bash
-❯ npx rescli
+❯ npx mlxre
 1) ml2re
 2) mli2rei
 3) delete
@@ -18,11 +18,11 @@ Select the operation:
 Or
 
 ```sh
-npx rescli ml2re
-npx rescli mli2rei
-npx rescli re2ml
-npx rescli reii2mli
-npx rescli delete
+npx mlxre ml2re
+npx mlxre mli2rei
+npx mlxre re2ml
+npx mlxre rei2mli
+npx mlxre delete
 ```
 
 ## See Also
