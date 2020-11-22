@@ -1,6 +1,6 @@
 {
   "name": "mlxre",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scripts for converting from `.ml`/`.mli` to `.re`/`.rei` files.",
   "main": "index.sh",
   "bin": "index.sh",
