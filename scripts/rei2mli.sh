@@ -1,4 +1,5 @@
 #!/bin/sh
+
 var=$(pwd)
 echo "The current working directory $var."
 list="$(find . -name \*.rei)"
