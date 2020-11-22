@@ -12,8 +12,14 @@ select opt in ml2re mli2rei delete quit; do
     mli2rei)
       . "$DIR/mli2rei.sh"
       ;;
+    re2ml)
+      . "$DIR/re2ml.sh"
+      ;;
+    rei2mli)
+      . "$DIR/rei2mli.sh"
+      ;;
     delete)
-   . "$DIR/delete.sh"
+      . "$DIR/delete.sh"
       ;;
     quit)
       break
