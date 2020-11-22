@@ -22,3 +22,9 @@ npx rescli ml2re
 npx rescli mli2rei
 npx rescli delete
 ```
+
+[resattributes](https://github.com/idkjs/resattributes)
+
+[resgitignore](https://github.com/idkjs/resagitignore)
+
+[bsconfig.json](https://github.com/idkjs/bsconfig.json)
