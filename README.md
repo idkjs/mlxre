@@ -1,3 +1,5 @@
+# index.sh is broken for now. You can still use the scripts in `scripts/` on your own.
+
 # Scripts
 
 Scripts for converting from `.ml`/`.mli` to `.re`/`.rei` files.
