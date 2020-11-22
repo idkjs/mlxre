@@ -23,8 +23,13 @@ npx rescli mli2rei
 npx rescli delete
 ```
 
+## See Also
+
 [resattributes](https://github.com/idkjs/resattributes)
 
-[resgitignore](https://github.com/idkjs/resagitignore)
-
 [bsconfig.json](https://github.com/idkjs/bsconfig.json)
+
+[resgitignore](https://github.com/idkjs/resgitignore)
+
+
+[Share on Twitter...](https://twitter.com/share?text=Quickly+convert+between+ml+and+re+and+back+ for+reasonml+and+rescript+projects!+https://github.com/idkjs/mlxre)
