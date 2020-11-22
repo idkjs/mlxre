@@ -20,6 +20,8 @@ Or
 ```sh
 npx rescli ml2re
 npx rescli mli2rei
+npx rescli re2ml
+npx rescli reii2mli
 npx rescli delete
 ```
 
